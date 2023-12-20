@@ -1,17 +1,16 @@
 TOPIC : WIKIPEDIA BASED DOCUMENT - RANKING 
 
-1. In the terminal Extract the Zip file "P39-MiniProject-BALUR.zip" and move to the folder "P39-MiniProject-BALUR" and navigate to code folder.
   Installation:
   i.	Ensure you have Python installed on your machine.
   ii.	Install the necessary libraries using pip:
   iii.	'pip install nltk  matplotlib'
   iv.	Download any additional pakages require to run code.
 
-2. Download the dataset from the drive and place the documents in the code folder.(This is zip extract the documents wiki_Dataset folder in Code folder inside P39-MiniProject-Bal03)
+2. Download the dataset from the drive and place the documents in the code folder.
 link : https://drive.google.com/file/d/1iXFaE93I1J2Cau25milsul2A6sqMP3NY/view?usp=drive_link
 
 
-3.  Download the json fold of inverted index (inverted_index.json) from the drive and place them in the code folder (save this in code folder in the P39-MiniProject-Bal03 )
+3.  Download the json fold of inverted index (inverted_index.json) from the drive and place them in the code folder
 link : https://drive.google.com/file/d/1k8iEABgnskBifO5Ig-R0B4X0Vpr4hYEn/view?usp=drive_link
 
 HOW TO THE RUN CODE :
